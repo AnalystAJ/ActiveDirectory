@@ -34,5 +34,9 @@ This SOP outlines how to add Active Directory on your computer.<br />
 </p>
 
 <p>
+<img src="https://imgur.com/9TL5vY7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
 <img src="https://imgur.com/mCyA6tX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
