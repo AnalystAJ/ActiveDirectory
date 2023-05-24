@@ -16,10 +16,6 @@ This SOP outlines how to add Active Directory on your computer.<br />
 
 <h2>Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
 
 <p>
 <img src="https://imgur.com/MyHeMaB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
